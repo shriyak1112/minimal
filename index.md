@@ -17,6 +17,13 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/Fraud_Detection.jpg"/></center>
 
+
+In this project, I developed an intelligent system to detect fraudulent activities within financial transactions. By analyzing patterns and anomalies in large datasets, the model can distinguish between legitimate and fraudulent behavior with high accuracy. This project demonstrates practical applications of machine learning algorithms in real-world scenarios, helping businesses reduce financial losses and improve security.
+
+The workflow includes data preprocessing to clean and transform raw data, feature engineering to highlight key indicators of fraud, and the use of various classification algorithms such as Random Forest, Logistic Regression, and Gradient Boosting to optimize detection performance. The system also incorporates model evaluation techniques like cross-validation and ROC curves to ensure reliability and robustness.
+
+This project highlights the importance of combining domain knowledge with advanced analytics, showing how data science can be leveraged to build automated systems that save time and resources while enhancing decision-making processes. The code is fully open-source and includes Jupyter notebooks to replicate and extend the analysis.
+
 ---
 
 ### Financial Models & Numerical Methods
